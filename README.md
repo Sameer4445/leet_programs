@@ -11,4 +11,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
