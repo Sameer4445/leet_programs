@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameer4445/leet_programs/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameer4445/leet_programs/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameer4445/leet_programs/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
