@@ -13,4 +13,4 @@ class Solution(object):
             return s[n//2]
         else:
             
-            return (s[n//2 - 1] + s[n//2]) / 2.00
+            return ((s[n//2-1]+s[n//2])/2.00)
