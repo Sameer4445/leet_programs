@@ -15,4 +15,7 @@ class Solution(object):
                 ans=min(ans,r-l+1)
                 s-=nums[l]
                 l+=1
-        return 0 if ans==len(nums)+1 else ans
+        if ans == len(nums) + 1:
+            return 0
+        else:
+            return ans          # ← What does this line do?
