@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer4445/leet_programs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sameer4445/leet_programs/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer4445/leet_programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameer4445/leet_programs/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sameer4445/leet_programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -84,8 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Sameer4445/leet_programs/tree/master/0413-arithmetic-slices) |
+| [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 ## Database
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sameer4445/leet_programs/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
