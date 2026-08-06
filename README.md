@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sameer4445/leet_programs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sameer4445/leet_programs/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/1015-smallest-integer-divisible-by-k) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sameer4445/leet_programs/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
