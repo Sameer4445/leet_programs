@@ -13,6 +13,5 @@ class Solution(object):
             right_sum=tot - left_sum - nums[i]
             if(left_sum==right_sum):
                 return i
-            else:
-                left_sum +=nums[i]
+            left_sum +=nums[i]
         return -1
