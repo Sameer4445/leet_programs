@@ -4,14 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        l=0
+        left=0
         mx=0
-        ss=set()
-
-        for i in range(len(s)):
-            while s[i] in ss:
-                ss.remove(s[l])
-                l+=1
-            ss.add(s[i])
-            mx=max(mx,i-l+1)
+        new=set()
+        for i in s:
+            while(i in new):
+                new.remove(s[left])
+                left+=1
+            new.add(i)
+            length=len(new)
+            mx=max(length,mx)
         return mx
+        
