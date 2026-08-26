@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/Sameer4445/leet_programs/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer4445/leet_programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sameer4445/leet_programs/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/Sameer4445/leet_programs/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
