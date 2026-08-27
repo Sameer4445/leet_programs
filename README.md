@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sameer4445/leet_programs/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sameer4445/leet_programs/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sameer4445/leet_programs/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Sameer4445/leet_programs/tree/master/0151-reverse-words-in-a-string) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameer4445/leet_programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Sameer4445/leet_programs/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/Sameer4445/leet_programs/tree/master/0151-reverse-words-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sameer4445/leet_programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
