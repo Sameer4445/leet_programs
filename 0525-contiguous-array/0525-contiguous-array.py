@@ -1,5 +1,9 @@
-class Solution:
-    def findMaxLength(self, nums: List[int]) -> int:
+class Solution(object):
+    def findMaxLength(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         mp = {0: -1}
         prefix = 0
         ans = 0
