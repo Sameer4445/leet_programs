@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sameer4445/leet_programs/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sameer4445/leet_programs/tree/master/0287-find-the-duplicate-number) |
 | [0413-arithmetic-slices](https://github.com/Sameer4445/leet_programs/tree/master/0413-arithmetic-slices) |
+| [0525-contiguous-array](https://github.com/Sameer4445/leet_programs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameer4445/leet_programs/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer4445/leet_programs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer4445/leet_programs/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sameer4445/leet_programs/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Sameer4445/leet_programs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameer4445/leet_programs/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sameer4445/leet_programs/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer4445/leet_programs/tree/master/1480-running-sum-of-1d-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameer4445/leet_programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Sameer4445/leet_programs/tree/master/0041-first-missing-positive) |
+| [0525-contiguous-array](https://github.com/Sameer4445/leet_programs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameer4445/leet_programs/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Sameer4445/leet_programs/tree/master/3731-find-missing-elements) |
