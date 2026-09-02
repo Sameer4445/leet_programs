@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sameer4445/leet_programs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sameer4445/leet_programs/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sameer4445/leet_programs/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sameer4445/leet_programs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sameer4445/leet_programs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer4445/leet_programs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/Sameer4445/leet_programs/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sameer4445/leet_programs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
