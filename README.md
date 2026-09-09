@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sameer4445/leet_programs/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sameer4445/leet_programs/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sameer4445/leet_programs/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer4445/leet_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer4445/leet_programs/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sameer4445/leet_programs/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sameer4445/leet_programs/tree/master/0287-find-the-duplicate-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Sameer4445/leet_programs/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Sameer4445/leet_programs/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer4445/leet_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0413-arithmetic-slices](https://github.com/Sameer4445/leet_programs/tree/master/0413-arithmetic-slices) |
 | [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 ## Database
