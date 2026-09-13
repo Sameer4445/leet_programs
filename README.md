@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sameer4445/leet_programs/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer4445/leet_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer4445/leet_programs/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Sameer4445/leet_programs/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sameer4445/leet_programs/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sameer4445/leet_programs/tree/master/0287-find-the-duplicate-number) |
 | [0413-arithmetic-slices](https://github.com/Sameer4445/leet_programs/tree/master/0413-arithmetic-slices) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sameer4445/leet_programs/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sameer4445/leet_programs/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Sameer4445/leet_programs/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sameer4445/leet_programs/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sameer4445/leet_programs/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sameer4445/leet_programs/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sameer4445/leet_programs/tree/master/0451-sort-characters-by-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sameer4445/leet_programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameer4445/leet_programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Sameer4445/leet_programs/tree/master/0041-first-missing-positive) |
+| [0229-majority-element-ii](https://github.com/Sameer4445/leet_programs/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sameer4445/leet_programs/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sameer4445/leet_programs/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Sameer4445/leet_programs/tree/master/0525-contiguous-array) |
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sameer4445/leet_programs/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sameer4445/leet_programs/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
