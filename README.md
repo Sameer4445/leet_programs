@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Sameer4445/leet_programs/tree/master/0908-smallest-range-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sameer4445/leet_programs/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sameer4445/leet_programs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sameer4445/leet_programs/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sameer4445/leet_programs/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sameer4445/leet_programs/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sameer4445/leet_programs/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
