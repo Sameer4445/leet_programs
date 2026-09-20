@@ -217,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sameer4445/leet_programs/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sameer4445/leet_programs/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sameer4445/leet_programs/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
