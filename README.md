@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Sameer4445/leet_programs/tree/master/0908-smallest-range-i) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sameer4445/leet_programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer4445/leet_programs/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sameer4445/leet_programs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer4445/leet_programs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sameer4445/leet_programs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer4445/leet_programs/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sameer4445/leet_programs/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer4445/leet_programs/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/Sameer4445/leet_programs/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameer4445/leet_programs/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sameer4445/leet_programs/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sameer4445/leet_programs/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer4445/leet_programs/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Sameer4445/leet_programs/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sameer4445/leet_programs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameer4445/leet_programs/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3731-find-missing-elements](https://github.com/Sameer4445/leet_programs/tree/master/3731-find-missing-elements) |
 ## Pigeonhole Principle
 |  |
