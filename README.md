@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameer4445/leet_programs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sameer4445/leet_programs/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Sameer4445/leet_programs/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sameer4445/leet_programs/tree/master/0451-sort-characters-by-frequency) |
@@ -229,9 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sameer4445/leet_programs/tree/master/0155-min-stack) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sameer4445/leet_programs/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
