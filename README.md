@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Sameer4445/leet_programs/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Sameer4445/leet_programs/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sameer4445/leet_programs/tree/master/0451-sort-characters-by-frequency) |
+| [0856-score-of-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0856-score-of-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sameer4445/leet_programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sameer4445/leet_programs/tree/master/0155-min-stack) |
+| [0856-score-of-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0856-score-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -240,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
