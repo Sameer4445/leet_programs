@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Sameer4445/leet_programs/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Sameer4445/leet_programs/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sameer4445/leet_programs/tree/master/0451-sort-characters-by-frequency) |
+| [0664-strange-printer](https://github.com/Sameer4445/leet_programs/tree/master/0664-strange-printer) |
 | [0856-score-of-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0856-score-of-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sameer4445/leet_programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sameer4445/leet_programs/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer4445/leet_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0413-arithmetic-slices](https://github.com/Sameer4445/leet_programs/tree/master/0413-arithmetic-slices) |
+| [0664-strange-printer](https://github.com/Sameer4445/leet_programs/tree/master/0664-strange-printer) |
 | [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 ## Database
 |  |
