@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sameer4445/leet_programs/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Sameer4445/leet_programs/tree/master/0908-smallest-range-i) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sameer4445/leet_programs/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sameer4445/leet_programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer4445/leet_programs/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sameer4445/leet_programs/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Sameer4445/leet_programs/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sameer4445/leet_programs/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sameer4445/leet_programs/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer4445/leet_programs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sameer4445/leet_programs/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sameer4445/leet_programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer4445/leet_programs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sameer4445/leet_programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
