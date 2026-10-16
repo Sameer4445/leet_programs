@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Sameer4445/leet_programs/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sameer4445/leet_programs/tree/master/0922-sort-array-by-parity-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sameer4445/leet_programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer4445/leet_programs/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sameer4445/leet_programs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameer4445/leet_programs/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sameer4445/leet_programs/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer4445/leet_programs/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Sameer4445/leet_programs/tree/master/3903-smallest-stable-index-i) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sameer4445/leet_programs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sameer4445/leet_programs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sameer4445/leet_programs/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sameer4445/leet_programs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3731-find-missing-elements](https://github.com/Sameer4445/leet_programs/tree/master/3731-find-missing-elements) |
