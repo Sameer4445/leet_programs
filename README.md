@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sameer4445/leet_programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameer4445/leet_programs/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sameer4445/leet_programs/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sameer4445/leet_programs/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Sameer4445/leet_programs/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Sameer4445/leet_programs/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sameer4445/leet_programs/tree/master/0922-sort-array-by-parity-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer4445/leet_programs/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sameer4445/leet_programs/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Sameer4445/leet_programs/tree/master/0611-valid-triangle-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sameer4445/leet_programs/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer4445/leet_programs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sameer4445/leet_programs/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Sameer4445/leet_programs/tree/master/0856-score-of-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sameer4445/leet_programs/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
