@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Sameer4445/leet_programs/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1148-article-views-i](https://github.com/Sameer4445/leet_programs/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Sameer4445/leet_programs/tree/master/1193-monthly-transactions-i) |
 | [1683-invalid-tweets](https://github.com/Sameer4445/leet_programs/tree/master/1683-invalid-tweets) |
